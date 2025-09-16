@@ -1,0 +1,16 @@
+cd ..
+cd /workspaces/codespaces-blank/mon-dex
+cd
+.help
+ls
+cd
+pwd
+ nano scripts/deploy_myDex.js
+git add .
+git add
+git push origin main
+git commit -m "Successful Monad testnet DEX deployment; add contract code and deployment log"
+git add .
+git push origin main
+git commit -m "Successful Monad testnet DEX deployment; add contract code and deployment log"
+git add .
